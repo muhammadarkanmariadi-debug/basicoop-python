@@ -142,7 +142,7 @@ def transaksi(daftar_barang):
         print(f"Subtotal : {subtotal}")
         print("-" * 40)
         
-    print(f"{'TOTAL NILAI ASET':<25} : {total_seluruh_modal}")
+    print(f"{'TOTAL TRANSAKSI':<25} : {total_seluruh_modal}")
     print("="*40)
 
 
