@@ -1,6 +1,3 @@
-Berikut versi **README.md** yang lebih natural, santai, dan enak dibaca manusia (siap copy–paste ke GitHub 👇).
-
----
 
 # 📘 OOP Python Practice
 
